@@ -1,0 +1,23 @@
+# Scalar qualities vs Vector qualities
+- Scalar quantities
+	- Only has magnitude (Number + Unit)
+	- For example: 
+		- Time
+		- Mass
+		- Speed
+		- Distance
+		- Area
+		- Volume
+		- Energy
+
+- Vector quantities
+	- Contains magnitude + direction
+		- Coordinates for example
+	- Can be represented by an arrow
+		- Length of the arrow is the magnitude, and the arrow direction is well.. the direction.
+	- For example:
+		- Force
+		- Velocity
+		- Acceleration
+		- Displacement
+	- Can sum vectors by putting the tail of the second one to the head of the first one

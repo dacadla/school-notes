@@ -1,0 +1,3 @@
+- In physics **raw data** refers to the **Initial data collection** during an investigation **before any calculations or analysis takes place**.
+	- Variables such as h or height are symbols typed in _italics_
+- A processed data table contains additional information which was determined by an example calculation.

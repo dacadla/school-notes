@@ -1,0 +1,3 @@
+Me encantan las películas de acción, pero odio el cine de terror en general. Disfruto de la emoción y la adrenalina que ofrecen las películas de acción, con sus impresionantes escenas de pelea y persecuciones. Por otro lado, las películas de terror simplemente me ponen nervioso, y no puedo soportar las escenas espeluznantes. Prefiero la emoción positiva de las películas de acción sobre los sustos de las películas de terror.
+
+I love action movies, but I hate horror cinema in general. I enjoy the excitement and adrenaline that action movies offer, with their stunning fight scenes and chases. On the other hand, horror movies just make me nervous, and I can't stand the creepy scenes. I prefer the positive thrill of action movies over the scares of horror movies.
