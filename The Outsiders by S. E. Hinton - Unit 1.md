@@ -6,4 +6,4 @@
 		- Tulsa, Oklahoma
 	- Publishes as S. E. Hinton because female writers were not respected as much as male writers at the time
 [[The Outsiders Timeline]]
-[[Dally's perspective hospital visit]]
+[[Dally]]
