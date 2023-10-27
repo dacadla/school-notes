@@ -26,7 +26,7 @@ By entering the maze premises and participating in the Maze Experience, you agre
 
 5. **Stay Within Designated Areas**: Always stay within the areas marked or designated for maze participants.
 
-6. **No Running:** For your own safety, running is not allowed on the premises.
+6. **No Running**: For your own safety, running is not allowed on the premises.
 
 7. **Don't Alter the Maze**: Do not remove or move any objects or elements within the maze.
 
@@ -37,6 +37,8 @@ By entering the maze premises and participating in the Maze Experience, you agre
   8.1. **Accidental Use of Safe Word**: If the safe word is used accidentally, you must explain immediately to avoid misunderstandings.
   
   8.2. **Abuse of Safe Word**: If it is suspected that you are using the safe word to degrade the experience for others, you will be removed immediately.
+
+10. **Crawling**: there will be a crawling portion of the maze. If you don't know how to crawl or can't for any other reason, you cannot complete the maze.
 
 By proceeding beyond this point, you acknowledge that you have read, understood, and agree to abide by these terms and conditions.
 
