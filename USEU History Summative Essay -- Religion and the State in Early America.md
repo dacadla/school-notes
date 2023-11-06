@@ -1,0 +1,13 @@
+https://openstax.org/books/us-history/pages/7-2-how-much-revolutionary-change#:~:text=RELIGION%20AND%20THE%20STATE
+
+The relationship between religion and the state has always been a complicated one, especially in the history of the United States. Before the American Revolution, several colonies had official churches that were supported by taxes. This meant that people had to pay for these churches even if they didn't attend or believe in their teachings. It also often meant that to hold a public office, one had to be part of a certain religion. This did not sit well with everyone, and things began to change after the Revolution.
+
+Virginia was one of the first to make a change. It had an established church, which was the Church of England, and it was not very welcoming to other faiths like Catholics or Baptists. In 1786, Virginia passed a law called the Virginia Statute for Religious Freedom. This law was important because it stopped the Church of England from having special treatment and it allowed for religious freedom. It said that no one could be forced to go to a certain church or to support it with money, and people couldn't be punished for their religious beliefs.
+
+Pennsylvania also had its own issues. The state's original constitution said that only people who believed in the Old and New Testaments could hold office in the state legislature. This rule left out Jews because they do not believe in the New Testament. But Pennsylvania fixed this in 1790 by taking that requirement out of its constitution.
+
+Now, New England was a different story. It took them longer to change their ways. In places like Massachusetts, Connecticut, and New Hampshire, they kept supporting Christian churches with public money. Massachusetts even wrote into its constitution that public happiness and good government depended on religion and morality, so the state could make laws about public worship and religious teaching.
+
+Even though this might sound like it was unfair to anyone not part of the Christian faith, Massachusetts did try to be inclusive in a way. They said that all Christian groups should be treated the same under the law, and no one church should be more important than another by law.
+
+In summary, the relationship between religion and the state in the early United States was complex and varied from place to place. Over time, laws and constitutions began to reflect the idea that freedom of religion was important and that the government should not force people to support or belong to a certain religion. It was a significant change from colonial times and helped lay the foundation for the diverse religious landscape we see in the United States today.

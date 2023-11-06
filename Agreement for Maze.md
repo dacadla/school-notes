@@ -14,6 +14,8 @@
 
 ### Maze Experience Agreement
 
+To complete the Maze Experience, you have to find a key. It is hidden somewhere in the maze, and to open the exit, you have to find it.
+
 By entering the maze premises and participating in the Maze Experience, you agree to the following terms and conditions:
 
 1. **No Leaning on the Walls**: Do not lean against or prop yourself up on the walls of the maze.
