@@ -11,3 +11,5 @@
 	- Soviet Union with Joseph Stalin
 - Suppression of Information
 - Use of propaganda
+
+We will be reading [1984] by George Orwell.
