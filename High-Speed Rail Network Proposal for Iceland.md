@@ -38,26 +38,45 @@ In my opinion, the potential benefits of the project make it a worthwhile invest
 
 
 Citations:
-https://www.newyorker.com/tech/annals-of-technology/the-physics-of-high-speed-trains
-https://www.statista.com/topics/10660/transport-industry-in-iceland/
-https://library.ndsu.edu/ir/bitstream/handle/10365/32230/Bridgelall-2021-11-lit-review-Worldwide-High-speed-Rail-Deployment-Impacts.pdf?isAllowed=y&sequence=1
-https://centreforaviation.com/analysis/reports/three-major-projects-eur1-billion-at-keflavik-airport-in-the-next-12-years-the-right-choice-639739
-https://publications.parliament.uk/pa/cm201012/cmselect/cmtran/writev/rail/m53.htm
-https://www.mdpi.com/2071-1050/13/21/12231
-https://icelandmonitor.mbl.is/news/nature_and_travel/2016/10/06/work_on_iceland_s_new_250_km_h_airport_train_to_beg/
-https://airshaper.com/blog/train-aerodynamics
-https://www.wired.co.uk/article/future-of-high-speed-rail-europe
-https://www.bloomberg.com/news/articles/2011-11-15/how-green-is-high-speed-rail
-https://grapevine.is/news/2022/03/31/no-train-between-reykjavik-and-akureyri-in-the-near-future/
-https://sphericalhysterical.com/how-is-hyperloop-better-than-bullet-train/
-https://www.railway-technology.com/features/mercitalia-fast-service/
-https://www.oecd.org/publications/the-economics-of-investment-in-high-speed-rail-9789282107751-en.htm
-https://www.reddit.com/r/Iceland/comments/lj49c8/will_the_railway_between_the_airport_and/
-https://www.sciencedirect.com/science/article/pii/S2949867823000181
-https://www.rand.org/content/dam/rand/pubs/papers/2008/P4874.pdf
-https://www.whatson.is/why-are-there-no-trains-in-iceland/
-https://www.sciencedirect.com/topics/engineering/high-speed-train
-https://icelandmag.is/article/investors-hope-set-plans-a-high-speed-rail-link-between-reykjavik-and-keflavik-airport
-https://youtube.com/watch?v=XjwF-STGtfE
-https://www.icelandreview.com/ask-ir/is-there-any-news-on-borgarlina-or-the-airport-train/
-https://www.britannica.com/technology/high-speed-rail
+Di Justo, P. (2013, July 25). The Physics of High-Speed Trains. _The New Yorker_. https://www.newyorker.com/tech/annals-of-technology/the-physics-of-high-speed-trains
+
+Transport industry in Iceland. (2023, April 3). Statista. https://www.statista.com/topics/10660/transport-industry-in-iceland/
+
+Momenitabar, M., Bridgelall, R., Ebrahimi, Z. D., & Arani, M. (2021). Literature Review of Socioeconomic and Environmental Impacts of High-Speed Rail in the world. _Sustainability_, _13_(21), 12231. https://doi.org/10.3390/su132112231
+
+Aviation, C.-. C. F. (2023). Three major projects (EUR1 billion) at Keflavik Airport in next 12 years – right choice? Part one. In _CAPA - Centre for Aviation_. https://centreforaviation.com/analysis/reports/three-major-projects-eur1-billion-at-keflavik-airport-in-the-next-12-years-the-right-choice-639739
+
+Rayney, D. (2010). _The application and effect of the rayleigh wave speed principle on high speed rail travel_. pariament.uk. Retrieved November 24, 2023, from https://publications.parliament.uk/pa/cm201012/cmselect/cmtran/writev/rail/m53.htm
+
+
+Mbl.Is. (2016, October 6). Work on Iceland’s new 250 km/h airport train to begin in 2020. _Iceland Monitor_. https://icelandmonitor.mbl.is/news/nature_and_travel/2016/10/06/work_on_iceland_s_new_250_km_h_airport_train_to_beg/
+
+
+AirShaper. (2020, December 8). _High-speed train aerodynamics_. https://airshaper.com/blog/train-aerodynamics
+
+Swain, F. (2019, November 15). The dream of high speed trains is already coming off the rails. _WIRED UK_. https://www.wired.co.uk/article/future-of-high-speed-rail-europe
+
+How green is High-Speed Rail? (2011, November 15). _Bloomberg.com_. https://www.bloomberg.com/news/articles/2011-11-15/how-green-is-high-speed-rail
+
+Zubenko, I. (2022, March 31). _No Train Between Reykjavík And Akureyri In The Near Future_. The Reykjavik Grapevine. https://grapevine.is/news/2022/03/31/no-train-between-reykjavik-and-akureyri-in-the-near-future/
+
+Siddharth. (2019, October 15). _The Physics Of Hyperloop & Bullet Trains – Maglev_. Spherical Hysterical. https://sphericalhysterical.com/how-is-hyperloop-better-than-bullet-train/
+
+Berti, A. (2020, January 28). Mercitalia Fast: the world’s first high-speed rail freight service. _Railway Technology_. https://www.railway-technology.com/features/mercitalia-fast-service/
+
+OECD. (2014, December 24). _The economics of investment in High-Speed rail_. OECD.org. Retrieved November 24, 2023, from https://www.oecd.org/publications/the-economics-of-investment-in-high-speed-rail-9789282107751-en.htm
+
+Ren, S., & Yi-Dong, L. (2023). A review of high performance computing applications in high-speed rail systems. _High-speed Railway_, _1_(2), 92–96. https://doi.org/10.1016/j.hspr.2023.05.001
+
+Moerland, M. (2023, March 17). _Why Are There No Trains in Iceland? | What's On in Reykjavík_. What’s on in Reykjavík. https://www.whatson.is/why-are-there-no-trains-in-iceland/
+
+Salous, S., Gaillot, D. P., Molina‐García‐Pardo, J., He, R., Saito, K., Guan, K., Barbiroli, M., Pascual‐García, J., & Haneda, K. (2021). IRACON channel measurements and models. In _Elsevier eBooks_ (pp. 49–105). https://doi.org/10.1016/b978-0-12-820581-5.00009-2
+
+_Investors hope to set plans of a high-speed rail link between Reykjavík and Keflavík Airport into motion in 2018_. (n.d.). Icelandmag. https://icelandmag.is/article/investors-hope-set-plans-a-high-speed-rail-link-between-reykjavik-and-keflavik-airport
+
+Lesics. (2021, June 16). _The Fastest train ever built | The complete physics of it_ [Video]. YouTube. https://www.youtube.com/watch?v=XjwF-STGtfE
+
+Moerland, M. (2022, June 29). _Is there any news on Borgarlína or the airport train?_ Iceland Review. https://www.icelandreview.com/ask-ir/is-there-any-news-on-borgarlina-or-the-airport-train/
+
+
+Frommer, F. (2023, November 17). _High-speed rail | Definition, History, Technology, Development, & Facts_. Encyclopedia Britannica. https://www.britannica.com/technology/high-speed-rail
